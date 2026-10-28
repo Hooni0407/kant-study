@@ -6,5 +6,10 @@ git init
 
 # 스테이징에 추가
 git add . # 현재폴더를 기준으로 해서 전부다 커밋하는 명령어
-git add -A  # 전부다 커밋하는 명령어
+git add -A  # 폴더 전체 커밋하는 명령어
+```
+
+```bash
+# Commit
+git commit -m "commit message..."
 ```
