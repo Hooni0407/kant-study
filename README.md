@@ -13,3 +13,8 @@ git add -A  # 폴더 전체 커밋하는 명령어
 # Commit
 git commit -m "commit message..."
 ```
+
+```bash
+# push command
+git push origin main
+```
